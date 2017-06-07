@@ -1,0 +1,25 @@
+{
+  "name": "node-xplorer",
+  "version": "0.1.1",
+  "description": "NodeJS interactive shell-like debugger",
+  "main": "nxp.js",
+  "scripts": {
+    "test": "node nxp.js t test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernatcanal/node-xplorer.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-debugger",
+    "node-xplorer"
+  ],
+  "author": "Bernat Canal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernatcanal/node-xplorer/issues"
+  },
+  "homepage": "https://github.com/bernatcanal/node-xplorer#readme"
+}
