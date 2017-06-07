@@ -1,7 +1,4 @@
 var test = {
-
-	//Simple function
-
 	foo : function (){
 		console.log('<foo> called and executed')
 		return 'foo';
